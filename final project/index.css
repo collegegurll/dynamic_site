@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+
+
+
+body {background-color: #CCC;
+font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#wrapper{width:660px;
+	margin:auto;
+	background-color: #CCC;
+}
+
+ul {
+list-style-type:none;
+margin:0;
+padding:0;
+} 
+
+nav li { display:inline;
+padding:35px;
+margin-top:15px;}
+
+a:link {color: #696;} 
+a:visited {color:#000;} 
+a:hover {color:#366;}   
+a:active {color:#FC6;} 
+
+header {background-color: #C0B18F;
+height:35px;
+padding:10px;
+margin-bottom:20px;}
+
+footer {background-color: #C0B18F;
+height:45px;
+padding:10px;
+margin-bottom:20px;}
+
+form{background-color:#C0B18F;}
+
+#title {font-style:italic;
+color: #000;
+background-color:#5D4730;
+
+width:660px;
+margin:auto;}

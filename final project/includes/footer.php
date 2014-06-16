@@ -1,0 +1,1 @@
+<footer>This interactive media project was created by students for educational purposes at The Art Institute of Atlanta and is in no way intended for commercial gain or as a source of public information.</footer>
